@@ -1,7 +1,5 @@
 # Kissing configurations in R^21: 31288 points (latest), 31272, 31259
 
-> **Search ongoing until 2026-10-11 ~22:00 UTC; the number may improve.** This notice will be removed when the run ends.
-
 **Update 2026-10-10 (second): 31288 points.** `data/D21_31288_plain.txt` (and `data/D21_31288_rays.txt`, Li's rays format)
 is a kissing configuration in 21 dimensions with **31288 points**: the **full 27720-point Cohn-Li base with zero deletions**
 plus 3568 weighted sign-pattern points on 3568 words of D (223 orbits of Li's order-16 sign group). It was obtained from the

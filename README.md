@@ -1,4 +1,14 @@
-# Kissing configurations in R^21: 31288 points (latest), 31272, 31259
+# Kissing configurations in R^21: 31288, 31272, 31259 points (superseded by Kevin Li's 31560)
+
+**Update 2026-10-15: superseded.** Kevin Li has a 31560-point configuration in R^21
+([Felpix-Studios/kissing-number](https://github.com/Felpix-Studios/kissing-number), `preprints/odd-sign-d19-d21/d21/data/D21-31560.txt`):
+the full Cohn-Li base plus 3840 Golay sign vectors weighted 2 on one line of the projective plane of order 4 and 3 elsewhere.
+It is the current record and Henry Cohn's table lists it. We checked it independently: our frozen checker (`scripts/checker_c.c`)
+returns VALID, Points: 31560. Congratulations to Kevin. Nothing below is the record any more; the files stay here as a
+reproducible history of the race, all still checkable with one command.
+
+---
+
 
 **Update 2026-10-10 (second): 31288 points.** `data/D21_31288_plain.txt` (and `data/D21_31288_rays.txt`, Li's rays format)
 is a kissing configuration in 21 dimensions with **31288 points**: the **full 27720-point Cohn-Li base with zero deletions**
